@@ -9,3 +9,10 @@
 .card{
     margin:20px;
 }
+.btn{
+    text-decoration: none;
+    color:black;
+}
+.btn-primary{
+    color:white;
+}
